@@ -1,0 +1,1 @@
+SELECT `:::exporter:::`, `:::kod_tovara:::` FROM `{0}` WHERE `:::kod_tovara:::` LIKE ''85044%'' OR `:::kod_tovara:::` LIKE ''85049%''
